@@ -1,0 +1,63 @@
+#home {
+	color: brown;
+	font-size: 50px;
+}
+
+h2 {
+	color: blueviolet;
+}
+
+h3 {
+	color: crimson;
+}
+
+.naruto-tabl {
+	color: orange;
+}
+
+.titan-tabl {
+	color: peru;
+}
+
+.klinok-tabl {
+	color: green;
+}
+
+.stal-tabl {
+	color: slategray;
+}
+
+.pozhyrat-tabl {
+	color: turquoise;
+}
+
+.anime-info {
+	color: cadetblue;
+}
+
+p.naruto-text {
+	color: orangered;
+}
+
+span.titan-info,
+.klinok-info,
+.alhim-info,
+.dush-info {
+	color: rgba(255, 0, 0, 0.863);
+}
+
+div div.titan-text {
+	color: sienna;
+}
+
+.klin > p {
+	color: green;
+}
+
+.stal-text.metal {
+	color: rgb(124, 124, 120);
+}
+
+div .dush-text {
+	color: rgb(126, 204, 230);
+}
